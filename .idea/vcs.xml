@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuperGlobals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phpProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phpProject/laravel-boilerplate" vcs="Git" />
+  </component>
+</project>
